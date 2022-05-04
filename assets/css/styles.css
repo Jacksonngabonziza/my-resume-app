@@ -503,14 +503,14 @@ nav{
 }
 
 .skills__python{
-    width: 75%;
+    width: 80%;
 }
 
 .skills__kotlin{
     width: 70%;
 }
 .skills__java{
-    width: 65%;
+    width: 90%;
 }
 
 .skills__yml{
@@ -518,19 +518,22 @@ nav{
 }
 
 .skills__rest{
-    width: 45%;
+    width: 85%;
 }
 
 .skills__sql{
-    width: 65%;
+    width: 90%;
 }
 
 .skills__git{
-    width: 50%;
+    width: 80%;
 }
 
 .skills__elasticsearch{
-    width: 30%;
+    width: 70%;
+}
+.skills__numpy{
+    width: 85%;
 }
 
 .skills__docker{
